@@ -1,0 +1,259 @@
+# Chinese/Simplified translation of kuseraccount.
+# Copyright (C) 2015 Leslie Zhai <xiang.zhai@i-soft.com.cn>
+# Copyright (C) 2015 fjiang <fujiang.zhu@i-soft.com.cn>
+# This file is distributed under the same license as the kuseraccount package.
+# Leslie Zhai <xiang.zhai@i-soft.com.cn>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-24 13:01+0800\n"
+"PO-Revision-Date: 2015-08-05 10:51+0800\n"
+"Last-Translator: fjiang <fujiang.zhu@i-soft.com.cn>\n"
+"Language-Team: Leslie Zhai <xiang.zhai@i-soft.com.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "It needs to be different from the old one."
+msgstr "请不要使用和原来的密码相同的密码。"
+
+msgid "Try changing some letters and numbers."
+msgstr "请尝试使用其它字母或数字。"
+
+msgid "Try changing the password a bit more."
+msgstr "请尝试把密码修改的更强壮。"
+
+msgid "A password without your user name would be better."
+msgstr "请不要在密码中包含用户名。"
+
+msgid "Try to avoid using your name in the password."
+msgstr "请避免在密码中使用用户名。"
+
+msgid " "
+msgstr ""
+
+msgid "Try to use more numbers."
+msgstr "请使用一些数字。"
+
+msgid "Try to use more uppercase letters."
+msgstr "请使用一些大写字母。"
+
+msgid "Try to use more lowercase letters."
+msgstr "请使用一些小写字母。"
+
+msgid "Try to use more special characters, like punctuation."
+msgstr "请使用一些特殊字符、标点符号。"
+
+msgid "Try to use a mixture of letters, numbers."
+msgstr "请混合使用字符、数字和标点符号。"
+
+msgid "Try to avoid repeating the same character."
+msgstr "请避免使用相同字符。"
+
+msgid "Try to mix up letters, numbers and punctuation."
+msgstr "请混合使用字符、数字和标点符号。"
+
+msgid "Try to avoid sequences like 1234 or abcd."
+msgstr "请避免使用常用字符组合，如1234 或者abcd。"
+
+msgid "Mix uppercase and lowercase and use a number."
+msgstr "请添加大小写字母和数字号。"
+
+msgid "Good password! "
+msgstr "修改密码"
+
+msgid "Change Password"
+msgstr "修改密码"
+
+msgid "Passwords do not match."
+msgstr "密码不一致"
+
+msgid "The password must be at least 6 characters ."
+msgstr "密码长度最少6位。"
+
+msgid "Try to mix up alphabets and numbers."
+msgstr "请混合使用字符、数字和标点符号。"
+
+msgid "The verify password must be at least 6 characters ."
+msgstr "确认密码长度最少6位。"
+
+msgid "fail to crypt password, please try again."
+msgstr "加密密码失败，请重试!"
+
+msgid "password are not the same, please input again."
+msgstr "密码不一致，请重新输入。"
+
+msgid "<a href=\"#\">Browse for more pictures...</a>"
+msgstr "<a href=\"#\">浏览更多图片...</a>"
+
+msgid "Browser for more pictures"
+msgstr "浏览更多图片"
+
+msgid "User Information Configuration"
+msgstr "用户信息设置"
+
+msgid "Real Name:"
+msgstr "显示名:"
+
+msgid "Password:"
+msgstr "密码:"
+
+msgid "Advanced Information Configuration"
+msgstr "高级信息设置"
+
+msgid "Administrator:"
+msgstr "管理员:"
+
+msgid ""
+"It need to reset password when \n"
+"user account type is changed to administrator."
+msgstr "帐号类型修改为管理员时，需要重设密码。"
+
+msgid "Automatic Login:"
+msgstr "自动登录:"
+
+msgid "Login Not Permitted"
+msgstr "禁止登录:"
+
+msgid "<a href=\"#\">Autostart application configuration</a>"
+msgstr "<a href=\"#\">自动运行应用程序配置</a>"
+
+msgid "Password & User Information"
+msgstr "密码和帐号信息"
+
+msgid "(C) 2015, Leslie Zhai"
+msgstr ""
+
+msgid "Leslie Zhai"
+msgstr "翟翔"
+
+msgid "Developer"
+msgstr "开发者"
+
+msgid "fujiang"
+msgstr "付江"
+
+msgid ""
+"<qt>Here you can change your personal information, which will be used, for "
+"instance, in mail programs and word processors. You can change your login "
+"password by clicking <em>Change Password...</em>.</qt>"
+msgstr ""
+"<qt>你可以修改你的个人信息，例如，会用在邮件和文档程序里。你可以通过点击<em>"
+"密码</em>编辑密码。</qt>"
+
+msgid "Override Automatic Login?"
+msgstr "覆盖自动登录?"
+
+msgid "Do you really want to override other`s Automaic Login?"
+msgstr "你确定想覆盖其他帐号的自动登录吗?"
+
+msgid "My Account"
+msgstr "我的帐号"
+
+msgid "Other Accounts"
+msgstr "其他帐号"
+
+msgid "Add User"
+msgstr "增加用户"
+
+msgid "Please input user name."
+msgstr "请输入用户帐号"
+
+msgid "Please input  account password."
+msgstr "请输入帐号密码"
+
+msgid "Please input  verify password."
+msgstr "请输入验证密码"
+
+msgid "User already exists"
+msgstr "帐号已经存在"
+
+msgid "Failed to add user."
+msgstr "添加帐号失败"
+
+msgid "can not find user!"
+msgstr "无法找到该账号"
+
+msgid "fail to crypt password, please change password manually."
+msgstr "无法加密密码，请手工修改密码。"
+
+msgid "Remove User"
+msgstr "删除帐号"
+
+msgid "Delete User Account"
+msgstr "删除帐号"
+
+msgid "Delete User Account and Files"
+msgstr "删除账号及账号所属的文件"
+
+msgid "Backup User Account Files Before Delete User Account"
+msgstr "删除帐号前先备份帐号文件"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Account Name:"
+msgstr "帐号名称:"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Verify Password:"
+msgstr "确认密码:"
+
+msgid "Login Not Permitted:"
+msgstr "禁止登录:"
+
+msgid "Display Name:"
+msgstr "显示名称:"
+
+msgid "The name to login."
+msgstr "登录名"
+
+msgid "The display name."
+msgstr "帐号的显示名称"
+
+msgid "Set an icon for the account."
+msgstr "为此帐号设置头像"
+
+msgid "The password must be at least 6 characters and is case sensitive."
+msgstr "帐号密码长度最少6位，区分大小写。"
+
+msgid "The account is not permitted to login."
+msgstr "此帐号被禁止登录。"
+
+msgid "The account can automatic login."
+msgstr "此帐号能自动登录。"
+
+msgid "The account type is adminstator."
+msgstr "此帐号类型是 管理员。"
+
+msgid "The password quality indicator."
+msgstr "密码强度指示器"
+
+msgid "New Password"
+msgstr "新密码:"
+
+msgid "Verified Password"
+msgstr "确认密码:"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "change"
+msgstr "修改"
+
+msgid "change password"
+msgstr "修改密码"
+
+msgid "Password Quality"
+msgstr "密码强度"
+
+#~ msgid "Verify New Password"
+#~ msgstr "确认密码"

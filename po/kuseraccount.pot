@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-05 09:12+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "fail to crypt password, please try again."
+msgstr ""
+
+msgid "password are not the same, please input again."
+msgstr ""
+
+msgid "Add User"
+msgstr ""
+
+msgid "Please input user name."
+msgstr ""
+
+msgid "Please input  account password."
+msgstr ""
+
+msgid "Please input  verify password."
+msgstr ""
+
+msgid "Passwords do not match."
+msgstr ""
+
+msgid "User already exists"
+msgstr ""
+
+msgid "Failed to add user."
+msgstr ""
+
+msgid "can not find user!"
+msgstr ""
+
+msgid "fail to crypt password, please change password manually."
+msgstr ""
+
+msgid "User Information Configuration"
+msgstr ""
+
+msgid "Real Name:"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Advanced Information Configuration"
+msgstr ""
+
+msgid "Administrator:"
+msgstr ""
+
+msgid "Automatic Login:"
+msgstr ""
+
+msgid "Login Not Permitted"
+msgstr ""
+
+msgid "<a href=\"#\">Autostart application configuration</a>"
+msgstr ""
+
+msgid "Password & User Information"
+msgstr ""
+
+msgid "(C) 2015, Leslie Zhai"
+msgstr ""
+
+msgid "Leslie Zhai"
+msgstr ""
+
+msgid "Developer"
+msgstr ""
+
+msgid "fujiang"
+msgstr ""
+
+msgid ""
+"<qt>Here you can change your personal information, which will be used, for "
+"instance, in mail programs and word processors. You can change your login "
+"password by clicking <em>Change Password...</em>.</qt>"
+msgstr ""
+
+msgid "Override Automatic Login?"
+msgstr ""
+
+msgid "Do you really want to override other`s Automaic Login?"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "Other Accounts"
+msgstr ""
+
+msgid "Remove User"
+msgstr ""
+
+msgid "Delete User Account"
+msgstr ""
+
+msgid "Delete User Account and Files"
+msgstr ""
+
+msgid "Backup User Account Files Before Delete User Account"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Dialog"
+msgstr ""
+
+msgid "Current Password"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "Verify New Password"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "change"
+msgstr ""
+
+msgid "change password"
+msgstr ""
+
+msgid "Account Name:"
+msgstr ""
+
+msgid "Display Password:"
+msgstr ""
+
+msgid "Verify Password:"
+msgstr ""
+
+msgid "<a href=\"#\">Browse for more pictures...</a>"
+msgstr ""
+
+msgid "Browser for more pictures"
+msgstr ""
